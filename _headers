@@ -1,0 +1,6 @@
+/version.json
+  Cache-Control: no-cache, no-store, must-revalidate
+/avoera.apk
+  Cache-Control: public, max-age=86400
+/avoera-32.apk
+  Cache-Control: public, max-age=86400
