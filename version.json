@@ -1,7 +1,7 @@
 {
-  "kode": 44,
-  "nama": "0.10.18",
+  "kode": 45,
+  "nama": "0.10.19",
   "urlApk": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera.apk",
   "urlApk32": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera-32.apk",
-  "catatan": "Splash baru Fill + Hijau: logo transparan baru, warnanya mengisi dari bawah ke atas saat aplikasi dimuat."
+  "catatan": "Perbaikan pemasang: unduhan pembaruan pindah ke folder cache biasa + cadangan salin otomatis bila jalur berkas ditolak."
 }
