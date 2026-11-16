@@ -1,1 +1,7 @@
-{"catatan":"Perbaikan akar masalah pemasang pembaruan: folder tempat unduhan disimpan kini terdaftar dengan benar, sehingga jendela pemasang bisa dibuka.","kode":43,"nama":"0.10.17","urlApk":"https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera.apk","urlApk32":"https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera-32.apk"}
+{
+  "kode": 44,
+  "nama": "0.10.18",
+  "urlApk": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera.apk",
+  "urlApk32": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera-32.apk",
+  "catatan": "Splash baru Fill + Hijau: logo transparan baru, warnanya mengisi dari bawah ke atas saat aplikasi dimuat."
+}
