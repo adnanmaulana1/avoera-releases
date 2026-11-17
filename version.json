@@ -1,7 +1,1 @@
-{
-  "kode": 55,
-  "nama": "0.15.0",
-  "urlApk": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera.apk",
-  "urlApk32": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera-32.apk",
-  "catatan": "Splash baru Avorea, Margin Tipis, Laporan Pengunjung, Tutup Kasir, struk + printer thermal Bluetooth, Dine-in/Bungkus sinkron di halaman bayar."
-}
+{"kode": 56, "nama": "0.16.0", "urlApk": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera.apk", "urlApk32": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera-32.apk", "catatan": "Keranjang & pesanan dapur sekarang TERSIMPAN: aplikasi tertutup paksa atau HP mati, pesanan yang belum dibayar dan tiket dapur tidak hilang lagi."}
