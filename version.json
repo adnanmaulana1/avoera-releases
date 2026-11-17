@@ -1,1 +1,7 @@
-{"kode": 57, "nama": "0.17.0", "urlApk": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera.apk", "urlApk32": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera-32.apk", "catatan": "Baru: Kelola Kategori — tambah, ubah nama, dan hapus kategori menu dari Produk (menu ikut diatur otomatis). Splash sekarang berlatar putih."}
+{
+  "kode": 58,
+  "nama": "0.18.0",
+  "urlApk": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera.apk",
+  "urlApk32": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera-32.apk",
+  "catatan": "Nama aplikasi sekarang Avorea POS (dulu Avoera POS) — ikon di layar HP, judul aplikasi, dan nama usaha bawaan ikut berganti. Data dan pengaturan tetap aman, tidak ada yang berubah selain nama."
+}
