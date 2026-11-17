@@ -1,7 +1,7 @@
 {
-  "kode": 59,
-  "nama": "0.19.0",
+  "kode": 60,
+  "nama": "0.20.0",
   "urlApk": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera.apk",
   "urlApk32": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera-32.apk",
-  "catatan": "Perbaikan cabang: cabang tidak akan terhapus dari awan lagi, dan cabang yang hilang dipulihkan otomatis dari transaksinya. Baru: ubah nama cabang dari Pengaturan (ketuk ikon pensil di samping nama cabang)."
+  "catatan": "Baru: Reset Semua Data di Pengaturan (bagian Zona Berbahaya paling bawah) — hapus semua data di awan dan di HP ini, aplikasi kembali seperti baru dipasang. Dilindungi ketik RESET supaya tidak kepencet."
 }
