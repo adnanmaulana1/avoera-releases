@@ -1,7 +1,7 @@
 {
-  "kode": 63,
-  "nama": "0.22.0",
+  "kode": 64,
+  "nama": "0.23.0",
   "urlApk": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera.apk",
   "urlApk32": "https://raw.githubusercontent.com/adnanmaulana1/avoera-releases/main/avoera-32.apk",
-  "catatan": "SEMUA data kini ikut tersimpan di awan: meja, promo, pengeluaran, hutang, riwayat stok, sesi kasir, antrean dapur, desain struk, dan draf keranjang (resep & bundle memang sudah dari dulu). Wizard awal kini sinkron dulu sebelum selesai, jadi cabang lama di HP baru pasti ketemu. Perbaikan jarak di Produk tetap ada."
+  "catatan": "Baru: Batal & Refund transaksi. Buka Riwayat, ketuk transaksinya, di bagian Kelola Transaksi pilih Refund atau Batalkan. Stok bahan otomatis kembali, dan transaksi itu tidak dihitung lagi di omzet maupun laporan. Semua data tetap tersinkron ke awan seperti versi sebelumnya."
 }
